@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/lukaszmalyszko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lukaszmalyszko/" height="30" width="40" /></a>
 </p>
 
-- 🌱 I’m currently learning and making projects with **React, TS or Ruby on Rails**
+- 🌱 I’m currently working and making projects with **React or Ruby on Rails**
 
 - 📫 How to reach me **lukas.malyszko@gmail.com**
 
