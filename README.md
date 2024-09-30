@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Łukasz Małyszko</h1>
-<h3 align="center">A frontend developer from Poland</h3>
+<h3 align="center">A Fullstack dev from Poland</h3>
 <p align="right"> <h4>Visit my LinkedIn</h4>
 <a href="https://www.linkedin.com/in/lukaszmalyszko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lukaszmalyszko/" height="30" width="40" /></a>
 </p>
 
-- 🌱 I’m currently working and making projects with **React or Ruby on Rails**
+- 🌱 I’m currently working and making projects with **Ruby on Rails**
 
 - 📫 How to reach me **lukas.malyszko@gmail.com**
 
