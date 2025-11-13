@@ -7,6 +7,7 @@
 - 🌱 I’m currently working and making projects with **Ruby on Rails**
 
 - 📫 How to reach me **lukas.malyszko@gmail.com**
+- <img src="https://www.codewars.com/users/LevvyPL/badges/micro"/>
 
 
 
