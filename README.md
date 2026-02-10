@@ -1,10 +1,21 @@
 <h1 align="center">Hi 👋, I'm Łukasz Małyszko</h1>
-<h3 align="center">A Fullstack dev from Poland</h3>
+<h3 align="center">Ruby on Rails & Fullstack Developer | React, Node.js | AI-Augmented Delivery, Security-Minded</h3>
 <p align="right"> <h4>Visit my LinkedIn</h4>
 <a href="https://www.linkedin.com/in/lukaszmalyszko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lukaszmalyszko/" height="30" width="40" /></a>
 </p>
 
-- 🌱 I’m currently working and making projects with **Ruby on Rails**
+**I build and maintain production Ruby on Rails and fullstack web applications—and I use AI to ship faster and with higher quality.**
+
+**What I do:**
+- **Ruby on Rails** — APIs, background jobs, multi-tenant SaaS, migrations, performance
+- **Fullstack** — React, JavaScript/Node.js, Vue.js; SPAs and server-rendered apps
+- **Databases** — PostgreSQL, schema design, indexing, and query optimization
+
+**How I work:**
+- **AI-augmented development** — I use AI to multiply progress and keep quality high: fewer bugs, clearer code, and lower risk for your product.
+- **Security-conscious** — I’ve worked on security-focused products (including Apnotic’s secure sharing tools) and think about auth, data handling, and best practices by default.
+
+**I’m a fit when you need:** a reliable Rails or fullstack developer who can own features, integrate with your stack, and deliver without constant hand-holding. Available 30+ hrs/week; open to contract-to-hire.
 
 - 📫 How to reach me **lukas.malyszko@gmail.com**
 - <img src="https://www.codewars.com/users/LevvyPL/badges/micro"/>
